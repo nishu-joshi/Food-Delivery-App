@@ -1,10 +1,10 @@
 
 import java.util.List;
-// import models.*;
-// import managers.*;
-// import strategies.*;
-// import factories.*;
-// import services.NotificationService;
+import models.*;
+import managers.*;
+import strategies.*;
+import factories.*;
+import services.NotificationService;
 
 public class TomatoApp {
 
